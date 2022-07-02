@@ -1,0 +1,12 @@
+.av-div{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding: 25px;
+    padding-bottom: 175px;
+
+}
+.am{
+    padding: 15px;
+}

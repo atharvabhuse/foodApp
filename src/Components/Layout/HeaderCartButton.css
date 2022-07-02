@@ -1,0 +1,13 @@
+.hcb-button{
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid white;
+}
+.hcb-span{
+    padding-left: 15px;
+    padding-right: 5px;
+}
